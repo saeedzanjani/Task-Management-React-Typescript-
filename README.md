@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About Project
+this project created with React-Typescript
+i use Material UI and 
+for state manegement i use context, and olso i created structure Redux-toolkit in app folder but it is not used in the project
+
+in Home Page You can add new task and when you clicked on edit icon you going to Edit page
+in Edit page you can change title and description and status
+Tasks saved in localstorage
+
+
 ## Available Scripts
 
 In the project directory, you can run:
