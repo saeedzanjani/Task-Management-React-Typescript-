@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## About Project
+## About Task Management Project
 this project created with React-Typescript
 i use Material UI and 
 for state manegement i use context, and olso i created structure Redux-toolkit in app folder but it is not used in the project
